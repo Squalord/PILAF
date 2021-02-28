@@ -7,6 +7,9 @@ ainsi que des achats du magasin bio fictif nommé PILAF.
 # Membres du projet
 
 Matthieu CHARTRAIN
+
 Sylvain MASCLET
+
 Sylvain FREDIANI
+
 Maxime NGUYEN
